@@ -1,1 +1,5 @@
-# Emt_Uygulamalar
+# Basit Hesap Makinesi C# Kodu 🧮✨
+
+
+
+
